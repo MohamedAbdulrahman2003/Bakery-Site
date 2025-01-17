@@ -3,7 +3,7 @@ Bakery Site is a web site about the Bakeres written using mark up languages with
 
 ### To download this website 
 ```
-http://github.com/MohamedAbdulrahman2003/Bakery-Site
+http://github.com/MohamedAbdulrahman2003/Bakery-Site.git
 ```
 
 >> here an images show the web site in browser
